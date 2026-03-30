@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="TMS.Api/TMS.Api.csproj" />
+  <Project Path="TMS.Mvc/TMS.Mvc.csproj" />
+</Solution>
