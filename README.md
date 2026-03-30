@@ -20,8 +20,7 @@ The repository contains three main components:
 ### Frontend (Angular)
 - Angular CLI & Core 18.2
 - TypeScript 5.5
-- RxJS
-- Jasmine & Karma (Testing)
+
 
 ## Getting Started
 
